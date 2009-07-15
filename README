@@ -1,0 +1,42 @@
+Bio-Mitomaster-RefHuman
+
+A Mooseified singleton object representing a human mitochondrial reference object.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Bio::Mitomaster::RefHuman
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Bio-Mitomaster-RefHuman
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Bio-Mitomaster-RefHuman
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Bio-Mitomaster-RefHuman
+
+    Search CPAN
+        http://search.cpan.org/dist/Bio-Mitomaster-RefHuman/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 Marty Brandon
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
